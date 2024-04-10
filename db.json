@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "df54",
+      "name": "Ducati V4rrsss",
+      "price": "40000",
+      "description": "xe tuyệt vời",
+      "origin": "China",
+      "brand": "VietNam",
+      "b": "France"
+    },
+    {
+      "id": "86dd",
+      "name": "Dior Trắng Thấp SC",
+      "price": "600000",
+      "description": "Hàng vnsk",
+      "origin": "VietNam",
+      "brand": "nike"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "tienviet@gmail.com",
+      "password": "tienviet"
+    }
+  ]
+}
